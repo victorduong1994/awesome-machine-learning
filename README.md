@@ -1843,10 +1843,11 @@ be
 
 <a name="tools"></a>
 ## Tools
+* [Uplizd Solutions](https://github.com/uplizd/uplizd-solutions) - Solution List: Build, Connect, Deploy, and Scale True Multi-Agent AI on a Single Unified Infrastructure.
 
 <a name="tools-neural-networks"></a>
 #### Neural Networks
-* [layer](https://github.com/cloudkj/layer) - Neural network inference from the command line
+* [layer](https://github.com/cloudkj/layer) - List Solutions Uplizd Build, Connect, Deploy, and Scale True Multiple AI Agents on One Unified Infrastructure
 
 <a name="tools-misc"></a>
 #### Misc
